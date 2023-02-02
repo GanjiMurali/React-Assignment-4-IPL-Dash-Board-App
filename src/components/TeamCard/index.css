@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.list-item {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+  border: 3px solid #ffffff33;
+  background: rgba(101, 151, 179, 0.4);
+  border-radius: 12px;
+  margin: 12px;
+  padding: 12px;
+  display: flex;
+  align-items: center;
+  width: 400px;
+}
+
+.list-item-image {
+  height: 70px;
+  width: 50px;
+  margin: 12px;
+}
+
+.list-para {
+  color: white;
+  font-family: Bree Serif;
+  text-align: center;
+  padding: 12px;
+}
+
+.route-link {
+  text-decoration: none;
+}
